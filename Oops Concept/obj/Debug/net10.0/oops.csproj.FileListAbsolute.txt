@@ -1,0 +1,14 @@
+C:\java\C#\oops\bin\Debug\net10.0\oops.exe
+C:\java\C#\oops\bin\Debug\net10.0\oops.deps.json
+C:\java\C#\oops\bin\Debug\net10.0\oops.runtimeconfig.json
+C:\java\C#\oops\bin\Debug\net10.0\oops.dll
+C:\java\C#\oops\bin\Debug\net10.0\oops.pdb
+C:\java\C#\oops\obj\Debug\net10.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\java\C#\oops\obj\Debug\net10.0\oops.AssemblyInfoInputs.cache
+C:\java\C#\oops\obj\Debug\net10.0\oops.AssemblyInfo.cs
+C:\java\C#\oops\obj\Debug\net10.0\oops.csproj.CoreCompileInputs.cache
+C:\java\C#\oops\obj\Debug\net10.0\oops.dll
+C:\java\C#\oops\obj\Debug\net10.0\refint\oops.dll
+C:\java\C#\oops\obj\Debug\net10.0\oops.pdb
+C:\java\C#\oops\obj\Debug\net10.0\oops.genruntimeconfig.cache
+C:\java\C#\oops\obj\Debug\net10.0\ref\oops.dll
