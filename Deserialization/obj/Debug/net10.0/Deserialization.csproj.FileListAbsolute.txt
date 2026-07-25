@@ -1,0 +1,15 @@
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.AssemblyInfoInputs.cache
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.AssemblyInfo.cs
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.csproj.CoreCompileInputs.cache
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.sourcelink.json
+C:\Github Pradnya\Dotnet\Deserialization\bin\Debug\net10.0\Deserialization.exe
+C:\Github Pradnya\Dotnet\Deserialization\bin\Debug\net10.0\Deserialization.deps.json
+C:\Github Pradnya\Dotnet\Deserialization\bin\Debug\net10.0\Deserialization.runtimeconfig.json
+C:\Github Pradnya\Dotnet\Deserialization\bin\Debug\net10.0\Deserialization.dll
+C:\Github Pradnya\Dotnet\Deserialization\bin\Debug\net10.0\Deserialization.pdb
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.dll
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\refint\Deserialization.dll
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.pdb
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\Deserialization.genruntimeconfig.cache
+C:\Github Pradnya\Dotnet\Deserialization\obj\Debug\net10.0\ref\Deserialization.dll
