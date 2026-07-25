@@ -1,0 +1,15 @@
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.AssemblyInfoInputs.cache
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.AssemblyInfo.cs
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.sourcelink.json
+C:\Github Pradnya\Dotnet\Serialization\bin\Debug\net10.0\Serialization.exe
+C:\Github Pradnya\Dotnet\Serialization\bin\Debug\net10.0\Serialization.deps.json
+C:\Github Pradnya\Dotnet\Serialization\bin\Debug\net10.0\Serialization.runtimeconfig.json
+C:\Github Pradnya\Dotnet\Serialization\bin\Debug\net10.0\Serialization.dll
+C:\Github Pradnya\Dotnet\Serialization\bin\Debug\net10.0\Serialization.pdb
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.dll
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\refint\Serialization.dll
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.pdb
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\Serialization.genruntimeconfig.cache
+C:\Github Pradnya\Dotnet\Serialization\obj\Debug\net10.0\ref\Serialization.dll
