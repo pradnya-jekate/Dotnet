@@ -1,0 +1,15 @@
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.AssemblyInfoInputs.cache
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.AssemblyInfo.cs
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.csproj.CoreCompileInputs.cache
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.sourcelink.json
+C:\Github Pradnya\Dotnet\MathematicalEngine\bin\Debug\net10.0\MathematicalEngine.exe
+C:\Github Pradnya\Dotnet\MathematicalEngine\bin\Debug\net10.0\MathematicalEngine.deps.json
+C:\Github Pradnya\Dotnet\MathematicalEngine\bin\Debug\net10.0\MathematicalEngine.runtimeconfig.json
+C:\Github Pradnya\Dotnet\MathematicalEngine\bin\Debug\net10.0\MathematicalEngine.dll
+C:\Github Pradnya\Dotnet\MathematicalEngine\bin\Debug\net10.0\MathematicalEngine.pdb
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.dll
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\refint\MathematicalEngine.dll
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.pdb
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\MathematicalEngine.genruntimeconfig.cache
+C:\Github Pradnya\Dotnet\MathematicalEngine\obj\Debug\net10.0\ref\MathematicalEngine.dll

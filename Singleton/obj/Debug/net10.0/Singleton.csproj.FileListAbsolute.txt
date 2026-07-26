@@ -1,0 +1,15 @@
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfoInputs.cache
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfo.cs
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.sourcelink.json
+C:\Github Pradnya\Dotnet\Singleton\bin\Debug\net10.0\Singleton.exe
+C:\Github Pradnya\Dotnet\Singleton\bin\Debug\net10.0\Singleton.deps.json
+C:\Github Pradnya\Dotnet\Singleton\bin\Debug\net10.0\Singleton.runtimeconfig.json
+C:\Github Pradnya\Dotnet\Singleton\bin\Debug\net10.0\Singleton.dll
+C:\Github Pradnya\Dotnet\Singleton\bin\Debug\net10.0\Singleton.pdb
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.dll
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\refint\Singleton.dll
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.pdb
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\Singleton.genruntimeconfig.cache
+C:\Github Pradnya\Dotnet\Singleton\obj\Debug\net10.0\ref\Singleton.dll
