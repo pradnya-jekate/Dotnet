@@ -3,3 +3,13 @@ C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\Encapsulation.AssemblyI
 C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\Encapsulation.AssemblyInfo.cs
 C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\Encapsulation.csproj.CoreCompileInputs.cache
 C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\Encapsulation.sourcelink.json
+C:\Github Pradnya\Dotnet\Encapsulation\bin\Debug\net10.0\Encapsulation.exe
+C:\Github Pradnya\Dotnet\Encapsulation\bin\Debug\net10.0\Encapsulation.deps.json
+C:\Github Pradnya\Dotnet\Encapsulation\bin\Debug\net10.0\Encapsulation.runtimeconfig.json
+C:\Github Pradnya\Dotnet\Encapsulation\bin\Debug\net10.0\Encapsulation.dll
+C:\Github Pradnya\Dotnet\Encapsulation\bin\Debug\net10.0\Encapsulation.pdb
+C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\Encapsulation.dll
+C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\refint\Encapsulation.dll
+C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\Encapsulation.pdb
+C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\Encapsulation.genruntimeconfig.cache
+C:\Github Pradnya\Dotnet\Encapsulation\obj\Debug\net10.0\ref\Encapsulation.dll

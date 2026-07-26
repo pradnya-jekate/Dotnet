@@ -1,11 +1,7 @@
-﻿namespace Encapsulation.Models;
+﻿using Encapsulation.Models;
 
-class Program
-{
-     public static void Main()
-    {
-        Student s = new Student();
-        s.name="Pradnya";
-        Console.WriteLine("Name:" + s.name);
-    }
-}
+Student s = new Student();
+
+s.SetName("Pradnya");
+
+Console.WriteLine(s.GetName());

@@ -1,13 +1,17 @@
-namespace Encapsulation.Models;
-
-
-    public class Student
+namespace Encapsulation.Models
+{
+    class Student
     {
-        private string name;
+        private string name = "";
 
-        private string Name
+        public void SetName(string n)
         {
-            get { return name;}
-            set { name = value;}
+            name = n;
+        }
+
+        public string GetName()
+        {
+            return name;
         }
     }
+}
