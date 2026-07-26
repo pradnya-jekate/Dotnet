@@ -1,0 +1,15 @@
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfo.cs
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.sourcelink.json
+C:\Github Pradnya\Dotnet\Polymorphism\bin\Debug\net10.0\Polymorphism.exe
+C:\Github Pradnya\Dotnet\Polymorphism\bin\Debug\net10.0\Polymorphism.deps.json
+C:\Github Pradnya\Dotnet\Polymorphism\bin\Debug\net10.0\Polymorphism.runtimeconfig.json
+C:\Github Pradnya\Dotnet\Polymorphism\bin\Debug\net10.0\Polymorphism.dll
+C:\Github Pradnya\Dotnet\Polymorphism\bin\Debug\net10.0\Polymorphism.pdb
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.dll
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\refint\Polymorphism.dll
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
+C:\Github Pradnya\Dotnet\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll
